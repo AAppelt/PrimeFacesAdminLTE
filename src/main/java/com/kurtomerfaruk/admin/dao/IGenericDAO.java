@@ -1,4 +1,4 @@
-package com.kurtomerfaruk.admin.dao;
+package com.admin.dao;
 
 import java.util.List;
 import java.util.Map;
