@@ -7,10 +7,8 @@ import javax.faces.bean.ViewScoped;
 import javax.faces.context.FacesContext;
 import javax.faces.event.ActionEvent;
 
-/**
- *
- * @author Omer Faruk KURT e-mail:kurtomerfaruk@gmail.com
- */
+
+
 @ManagedBean
 @ViewScoped
 public class AddressController extends AbstractController<Address> implements java.io.Serializable {
