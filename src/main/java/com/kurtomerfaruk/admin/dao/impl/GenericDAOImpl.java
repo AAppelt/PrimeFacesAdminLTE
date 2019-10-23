@@ -13,11 +13,7 @@ import javax.persistence.criteria.Predicate;
 import javax.persistence.criteria.Root;
 import org.primefaces.model.SortOrder;
 
-/**
- *
- * @author Omer Faruk KURT e-mail:kurtomerfaruk@gmail.com
- * @param <T>
- */
+
 public class GenericDAOImpl<T> implements IGenericDAO<T> {
 
     private static final long serialVersionUID = -4745715813453134429L;
