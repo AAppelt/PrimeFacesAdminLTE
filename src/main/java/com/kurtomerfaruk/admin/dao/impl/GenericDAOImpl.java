@@ -1,4 +1,4 @@
-package com.kurtomerfaruk.admin.dao.impl;
+package com.admin.dao.impl;
 
 import com.kurtomerfaruk.admin.dao.IGenericDAO;
 import java.util.List;
